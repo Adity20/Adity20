@@ -4,20 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adity20&label=Profile%20views&color=0e75b6&style=flat" alt="adity20" /> </p>
 
-
-- 🔭 I’m currently working on [Blogging-Site](https://github.com/Adity20/blogging-site)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Open Source Web dev projects**
 
-- 👨‍💻 All of my projects are available at [https://aditya112-portfolio.000webhostapp.com/](https://aditya112-portfolio.000webhostapp.com/)
-
-- 💬 Ask me about **Front-end and Back-end development| Java| Python| And a little bit of AI**
+- 💬 Ask me about **Front-end and Back-end development| Java| Python| And a little bit of AI/ML**
 
 - 📫 How to reach me **sharma.aditya9164@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BgKSUZg4QCgnScfLWbGvkPg02-ThVSd-/view?usp=drivesdk](https://drive.google.com/file/d/1BgKSUZg4QCgnScfLWbGvkPg02-ThVSd-/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
